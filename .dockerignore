@@ -1,0 +1,5 @@
+*
+!event_extraction/*
+!environment.yml
+!environment_cpu.yml
+!setup.py

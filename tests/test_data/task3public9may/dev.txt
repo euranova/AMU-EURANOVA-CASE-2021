@@ -1,0 +1,214 @@
+what	O
+movie	O
+is	O
+ill	O
+be	O
+back	O
+from	O
+
+show	O
+me	O
+foreign	B-GENRE
+romance	I-GENRE
+movies	O
+
+are	O
+there	O
+any	O
+scary	B-GENRE
+movies	O
+that	O
+are	O
+not	B-RATING
+rated	I-RATING
+r	I-RATING
+
+what	O
+is	O
+the	O
+most	B-REVIEW
+popular	I-REVIEW
+martin	B-DIRECTOR
+sheen	I-DIRECTOR
+film	O
+
+find	O
+me	O
+the	O
+movie	O
+with	O
+the	O
+song	O
+blue	B-SONG
+hawaii	I-SONG
+
+did	O
+rob	B-DIRECTOR
+reiner	I-DIRECTOR
+direct	O
+a	O
+movie	O
+released	O
+in	O
+1992	B-YEAR
+that	O
+had	O
+a	O
+military	B-PLOT
+drill	I-PLOT
+team	I-PLOT
+
+give	O
+me	O
+a	O
+list	O
+of	O
+all	O
+movies	O
+that	O
+have	O
+the	O
+song	O
+ice	B-SONG
+ice	I-SONG
+baby	I-SONG
+by	O
+vanilla	O
+ice	O
+
+i	O
+want	O
+to	O
+buy	O
+the	O
+soundtrack	B-SONG
+from	O
+an	O
+atmospheric	B-PLOT
+movie	O
+
+show	O
+me	O
+the	O
+top	B-RATINGS_AVERAGE
+rated	I-RATINGS_AVERAGE
+movie	I-RATINGS_AVERAGE
+of	O
+2011	B-YEAR
+
+what	O
+is	O
+bambi	B-TITLE
+about	O
+
+find	O
+me	O
+teen	B-GENRE
+films	I-GENRE
+from	O
+the	O
+1990s	B-YEAR
+
+have	O
+you	O
+got	O
+any	O
+rock	B-GENRE
+operas	I-GENRE
+
+list	O
+the	O
+science	B-GENRE
+fiction	I-GENRE
+movies	I-GENRE
+with	O
+selma	B-ACTOR
+blair	I-ACTOR
+
+who	O
+directed	B-DIRECTOR
+cars	B-TITLE
+
+find	O
+me	O
+movies	O
+about	O
+dragons	B-PLOT
+
+can	O
+you	O
+find	O
+me	O
+a	O
+steven	B-DIRECTOR
+spielberg	I-DIRECTOR
+movie	O
+
+did	O
+george	B-DIRECTOR
+clooney	I-DIRECTOR
+direct	O
+a	O
+political	B-GENRE
+drama	I-GENRE
+movie	O
+
+show	O
+me	O
+musicals	B-GENRE
+starring	O
+judy	B-ACTOR
+garland	I-ACTOR
+
+what	O
+was	O
+the	O
+first	B-YEAR
+movie	O
+leonardo	B-ACTOR
+dicaprio	I-ACTOR
+starred	O
+in	O
+
+are	O
+there	O
+any	O
+childrens	B-GENRE
+movies	O
+with	O
+danny	B-ACTOR
+devito	I-ACTOR
+
+movie	O
+starring	O
+john	B-ACTOR
+krasinski	I-ACTOR
+
+look	O
+up	O
+the	O
+best	O
+british	B-PLOT
+films	O
+
+could	O
+you	O
+locate	O
+a	O
+mobster	B-PLOT
+film	O
+starring	O
+will	B-ACTOR
+smith	I-ACTOR
+
+how	O
+many	O
+friday	B-TITLE
+the	I-TITLE
+13th	I-TITLE
+movies	O
+were	O
+made	O
+in	O
+the	O
+1980s	B-YEAR

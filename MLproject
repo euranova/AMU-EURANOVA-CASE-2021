@@ -1,0 +1,74 @@
+name: Event-Extraction
+
+conda_env: environment.yml
+
+entry_points:
+    2019_task3:
+        parameters:
+            epochs: {type: float, default: 20}
+            learning_rate: {type: float, default: 5e-04}
+            train_batch_size: {type: int, default: 6}
+            eval_batch_size: {type:int, default: 8}
+            model_name: {type:str, default: "distilbert-base-cased"}
+        command: "python scripts/run_task_3_2019.py --epochs {epochs} --learning_rate {learning_rate} --train_batch_size {train_batch_size} \
+            --eval_batch_size {eval_batch_size} --model_name {model_name}"
+    2019_task1:
+        parameters:
+            epochs: {type: float, default: 20}
+            learning_rate: {type: float, default: 5e-04}
+            train_batch_size: {type: int, default: 6}
+            eval_batch_size: {type:int, default: 8}
+            model_name: {type:str, default: "distilbert-base-uncased"}
+        command: "python scripts/run_task_1_2019.py --epochs {epochs} --learning_rate={learning_rate} --train_batch_size {train_batch_size} \
+            --eval_batch_size {eval_batch_size} --model_name {model_name}"
+    2021_task4:
+        parameters:
+            epochs: {type: float, default: 20}
+            learning_rate: {type: float, default: 5e-05}
+            train_batch_size: {type: int, default: 5}
+            eval_batch_size: {type: int, default: 8}
+            model_name: {type: str, default: "bert-base-multilingual-cased"}
+            loss: {type: str, default: "macro"}
+            hyperparameter_search: {type: int, default: 0}
+            n_trials: {type: int, default: 20}
+            data_order_seed: {type: int, default: 13}
+            initialization_prediction_layer_seed: {type: int, default: 13}
+            dataset: {type: str, default: "full"}
+        command: "python scripts/run_task_4_2021.py --epochs={epochs} --learning_rate={learning_rate} --train_batch_size={train_batch_size} \
+            --eval_batch_size={eval_batch_size} --model_name={model_name} --loss={loss} --data_order_seed={data_order_seed} \
+            --hyperparameter_search={hyperparameter_search} --n_trials={n_trials} \
+            --initialization_prediction_layer_seed={initialization_prediction_layer_seed} --dataset {dataset}"
+    2021_task4_behavioural:
+        parameters:
+            epochs: {type: float, default: 20}
+            learning_rate: {type: float, default: 5e-04}
+            train_batch_size: {type: int, default: 6}
+            eval_batch_size: {type:int, default: 8}
+            model_name: {type:str, default: "bert-base-multilingual-cased"}
+            loss: {type:str, default:"macro"}
+            dataset: {type:str, default:"multi_ner"}
+        command: "python scripts/run_task_4_2021_behavioural.py --epochs {epochs} --learning_rate {learning_rate} \
+            --train_batch_size {train_batch_size} --eval_batch_size {eval_batch_size} --model_name {model_name} --loss {loss} \
+            --dataset {dataset}"
+
+    2021_subtask1:
+        parameters:
+            data_dir: {type: str, default: "data"}
+            epochs: {type: float, default: 40}
+            learning_rate: {type: float, default: 5e-05}
+            train_batch_size: {type: int, default: 6}
+            eval_batch_size: {type: int, default: 8}
+            model_name: {type: str, default: "bert-base-multilingual-cased"}
+        command: "python scripts/run_subtask1_2021.py --data_dir {data_dir} --epochs {epochs} --learning_rate {learning_rate} \
+            --train_batch_size {train_batch_size} --eval_batch_size {eval_batch_size} --model_name {model_name}"
+
+    2021_subtask2:
+        parameters:
+            data_dir: {type: str, default: "data"}
+            epochs: {type: float, default: 40}
+            learning_rate: {type: float, default: 5e-05}
+            train_batch_size: {type: int, default: 6}
+            eval_batch_size: {type: int, default: 8}
+            model_name: {type: str, default: "bert-base-multilingual-cased"}
+        command: "python scripts/run_subtask2_2021.py --data_dir {data_dir} --epochs {epochs} --learning_rate {learning_rate} \
+            --train_batch_size {train_batch_size} --eval_batch_size {eval_batch_size} --model_name {model_name}"

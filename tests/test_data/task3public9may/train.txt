@@ -1,0 +1,1102 @@
+what	O
+movies	O
+star	O
+bruce	B-ACTOR
+willis	I-ACTOR
+
+show	O
+me	O
+films	O
+with	O
+drew	B-ACTOR
+barrymore	I-ACTOR
+from	O
+the	O
+1980s	B-YEAR
+
+what	O
+movies	O
+starred	O
+both	O
+al	B-ACTOR
+pacino	I-ACTOR
+and	O
+robert	B-ACTOR
+deniro	I-ACTOR
+
+find	O
+me	O
+all	O
+of	O
+the	O
+movies	O
+that	O
+starred	O
+harold	B-ACTOR
+ramis	I-ACTOR
+and	O
+bill	B-ACTOR
+murray	I-ACTOR
+
+find	O
+me	O
+a	O
+movie	O
+with	O
+a	O
+quote	O
+about	O
+baseball	O
+in	O
+it	O
+
+what	O
+movies	O
+have	O
+mississippi	B-TITLE
+in	O
+the	O
+title	O
+
+show	O
+me	O
+science	B-GENRE
+fiction	I-GENRE
+films	I-GENRE
+directed	O
+by	O
+steven	B-DIRECTOR
+spielberg	I-DIRECTOR
+
+do	O
+you	O
+have	O
+any	O
+thrillers	B-GENRE
+directed	O
+by	O
+sofia	B-DIRECTOR
+coppola	I-DIRECTOR
+
+what	O
+leonard	B-SONG
+cohen	I-SONG
+songs	I-SONG
+have	O
+been	O
+used	O
+in	O
+a	O
+movie	O
+
+show	O
+me	O
+films	O
+elvis	B-ACTOR
+films	O
+set	B-PLOT
+in	I-PLOT
+hawaii	I-PLOT
+
+what	O
+movie	O
+is	O
+references	O
+zydrate	B-PLOT
+
+are	O
+there	O
+any	O
+musical	B-GENRE
+films	I-GENRE
+with	O
+patrick	B-ACTOR
+dempsey	I-ACTOR
+
+list	O
+westerns	B-GENRE
+starring	O
+john	B-ACTOR
+wayne	I-ACTOR
+
+show	O
+me	O
+military	B-GENRE
+related	O
+movies	O
+with	O
+demi	B-ACTOR
+moore	I-ACTOR
+
+did	O
+stephen	B-DIRECTOR
+made	O
+any	O
+sex	B-GENRE
+or	O
+horror	B-GENRE
+movie	O
+that	O
+must	B-REVIEW
+be	O
+have	O
+to	O
+watch	B-REVIEW
+
+did	O
+ang	B-DIRECTOR
+lee	I-DIRECTOR
+direct	O
+a	O
+costume	B-GENRE
+drama	I-GENRE
+movie	O
+set	O
+in	O
+the	O
+1800s	B-YEAR
+
+who	O
+directed	O
+the	O
+first	O
+james	B-CHARACTER
+bond	I-CHARACTER
+movies	O
+
+list	O
+the	O
+r	B-RATING
+rated	O
+best	B-RATINGS_AVERAGE
+picture	I-RATINGS_AVERAGE
+oscar	O
+winners	O
+
+where	O
+can	O
+i	O
+buy	O
+the	O
+sucker	B-TITLE
+punch	I-TITLE
+soundtrack	B-SONG
+
+what	O
+british	B-GENRE
+movies	O
+came	O
+out	O
+in	O
+1990s	B-YEAR
+about	O
+the	O
+royal	B-PLOT
+family	I-PLOT
+
+who	O
+did	O
+the	O
+soundtrack	B-SONG
+to	O
+james	B-DIRECTOR
+camerons	I-DIRECTOR
+titanic	B-TITLE
+
+what	O
+was	O
+the	O
+last	B-YEAR
+movie	O
+judy	B-ACTOR
+garland	I-ACTOR
+starred	O
+in	O
+
+what	O
+military	B-GENRE
+spoof	I-GENRE
+movie	O
+did	O
+charlie	B-ACTOR
+sheen	I-ACTOR
+do	O
+
+id	O
+like	O
+a	O
+documentary	B-GENRE
+about	O
+doctors	B-PLOT
+in	O
+a	O
+chicago	B-PLOT
+hospital	I-PLOT
+in	O
+the	O
+1980s	B-YEAR
+
+find	O
+the	O
+movies	O
+action	B-GENRE
+movies	O
+directed	O
+by	O
+john	B-DIRECTOR
+woo	I-DIRECTOR
+from	O
+the	O
+1990s	B-YEAR
+
+what	O
+is	O
+a	O
+romantic	B-GENRE
+film	I-GENRE
+where	O
+the	O
+protagonist	B-PLOT
+doesnt	I-PLOT
+fall	I-PLOT
+in	I-PLOT
+love	I-PLOT
+
+does	O
+the	O
+original	B-TITLE
+little	I-TITLE
+mermaid	I-TITLE
+by	O
+hans	O
+christian	O
+anderson	O
+come	O
+on	O
+dvd	O
+
+is	O
+there	O
+a	O
+disney	B-GENRE
+movie	I-GENRE
+where	O
+beyonce	B-SONG
+sang	O
+on	O
+the	O
+soundtrack	B-SONG
+
+did	O
+shawn	B-DIRECTOR
+levy	I-DIRECTOR
+direct	O
+any	O
+science	B-GENRE
+fiction	I-GENRE
+movies	O
+in	O
+the	O
+2010s	B-YEAR
+
+any	O
+new	O
+movie	O
+of	O
+david	B-PLOT
+dhawan	I-PLOT
+
+find	O
+me	O
+all	O
+the	O
+hannibal	B-CHARACTER
+lector	I-CHARACTER
+movies	O
+
+list	O
+childrens	B-GENRE
+movies	O
+with	O
+billy	B-ACTOR
+crystal	I-ACTOR
+
+what	O
+are	O
+the	O
+best	B-RATINGS_AVERAGE
+reviewed	I-RATINGS_AVERAGE
+movie	O
+rock	B-SONG
+ballads	O
+from	O
+the	O
+1980s	B-YEAR
+
+where	O
+were	O
+the	O
+free	B-TITLE
+willy	I-TITLE
+movies	O
+filmed	O
+
+is	O
+there	O
+a	O
+movie	O
+with	O
+jennifer	B-ACTOR
+aniston	I-ACTOR
+that	O
+is	O
+r	B-RATING
+rated	I-RATING
+
+who	O
+was	O
+the	O
+main	B-CHARACTER
+character	I-CHARACTER
+in	O
+star	B-TITLE
+wars	I-TITLE
+
+im	O
+looking	O
+for	O
+a	O
+musical	B-GENRE
+with	O
+the	O
+song	B-SONG
+day	I-SONG
+by	I-SONG
+day	I-SONG
+
+what	O
+movie	O
+has	O
+the	O
+shortest	B-TRAILER
+trailer	I-TRAILER
+
+what	O
+movie	O
+has	O
+the	O
+song	O
+i	B-SONG
+will	I-SONG
+always	I-SONG
+love	I-SONG
+you	I-SONG
+
+i	O
+want	O
+to	O
+see	O
+a	O
+clint	B-ACTOR
+eastwood	I-ACTOR
+comedy	B-GENRE
+
+what	O
+was	O
+whitney	B-ACTOR
+houstons	I-ACTOR
+first	O
+movie	O
+
+have	O
+u	O
+had	O
+the	O
+new	B-YEAR
+trailer	B-TRAILER
+of	O
+fast	B-TITLE
+and	I-TITLE
+furious	I-TITLE
+
+in	O
+what	O
+movie	O
+is	O
+jack	B-ACTOR
+nicholson	I-ACTOR
+in	O
+an	O
+insane	B-PLOT
+asylum	I-PLOT
+
+list	O
+the	O
+dramatic	B-GENRE
+movies	O
+from	O
+the	O
+1980s	B-YEAR
+starring	O
+donald	B-ACTOR
+sutherland	I-ACTOR
+
+show	O
+me	O
+a	O
+list	O
+of	O
+rocky	B-TITLE
+movies	O
+
+what	O
+is	O
+the	O
+aaron	B-DIRECTOR
+sorkin	I-DIRECTOR
+movie	O
+that	O
+trent	B-SONG
+reznor	I-SONG
+did	O
+the	O
+soundtrack	B-SONG
+for	O
+
+do	O
+you	O
+have	O
+any	O
+films	O
+made	O
+starring	O
+michael	B-ACTOR
+jackson	I-ACTOR
+in	O
+the	O
+1970s	B-YEAR
+
+are	O
+there	O
+political	B-GENRE
+drama	I-GENRE
+movies	O
+with	O
+alec	B-ACTOR
+baldwin	I-ACTOR
+
+in	O
+what	O
+movie	O
+did	O
+michael	B-ACTOR
+keaton	I-ACTOR
+play	O
+batman	B-TITLE
+
+show	O
+me	O
+movies	O
+with	O
+ewan	B-ACTOR
+macgregor	I-ACTOR
+singing	O
+
+show	O
+me	O
+a	O
+list	O
+of	O
+superman	B-TITLE
+movies	O
+
+what	O
+romance	B-GENRE
+movies	I-GENRE
+were	O
+popular	B-REVIEW
+in	O
+2002	B-YEAR
+
+list	O
+the	O
+movies	O
+directed	B-DIRECTOR
+by	O
+kevin	B-DIRECTOR
+smith	I-DIRECTOR
+with	O
+jason	B-ACTOR
+mews	I-ACTOR
+
+find	O
+me	O
+the	O
+movie	O
+with	O
+the	O
+song	O
+suicide	B-SONG
+is	I-SONG
+painless	I-SONG
+
+will	O
+their	O
+be	O
+a	O
+movie	O
+made	O
+about	O
+world	B-PLOT
+of	I-PLOT
+warcraft	I-PLOT
+
+are	O
+there	O
+any	O
+wes	B-DIRECTOR
+anderson	I-DIRECTOR
+films	O
+with	O
+jason	B-ACTOR
+schwartzman	I-ACTOR
+
+who	O
+directed	B-DIRECTOR
+savannah	B-TITLE
+smiles	I-TITLE
+
+show	O
+me	O
+films	O
+with	O
+owen	B-ACTOR
+wilson	I-ACTOR
+movies	O
+that	O
+were	O
+considered	O
+must	B-RATINGS_AVERAGE
+see	I-RATINGS_AVERAGE
+
+find	O
+me	O
+a	O
+movie	O
+which	O
+features	O
+the	O
+song	O
+blaze	B-SONG
+of	I-SONG
+glory	I-SONG
+
+is	O
+any	O
+film	O
+maker	O
+planning	O
+to	O
+produce	O
+a	O
+world	B-PLOT
+of	I-PLOT
+warcraft	I-PLOT
+movie	O
+
+find	O
+all	O
+films	O
+directed	O
+by	O
+the	O
+farely	B-DIRECTOR
+brothers	I-DIRECTOR
+
+what	O
+was	O
+the	O
+last	O
+move	O
+that	O
+frank	B-ACTOR
+sinatra	I-ACTOR
+was	O
+in	O
+
+what	O
+film	O
+had	O
+something	O
+to	O
+do	O
+with	O
+a	O
+one	B-PLOT
+armed	I-PLOT
+man	I-PLOT
+
+find	O
+me	O
+films	O
+starring	O
+rick	B-ACTOR
+springfield	I-ACTOR
+
+list	O
+the	O
+movies	O
+directed	O
+by	O
+shawn	B-DIRECTOR
+levy	I-DIRECTOR
+starring	O
+steve	B-ACTOR
+martin	I-ACTOR
+
+did	O
+james	B-DIRECTOR
+cameron	I-DIRECTOR
+direct	O
+any	O
+action	B-GENRE
+films	O
+that	O
+were	O
+rated	O
+just	O
+two	B-RATINGS_AVERAGE
+stars	I-RATINGS_AVERAGE
+or	O
+less	O
+
+find	O
+me	O
+dramatic	B-GENRE
+movies	O
+with	O
+angelina	B-ACTOR
+jolie	I-ACTOR
+released	O
+in	O
+the	O
+1990s	B-YEAR
+
+who	O
+directed	O
+the	O
+most	O
+horror	B-GENRE
+movies	O
+
+who	O
+directed	O
+rocky	B-TITLE
+4	I-TITLE
+
+what	O
+was	O
+the	O
+oscar	B-REVIEW
+winning	O
+movie	O
+of	O
+1998	B-YEAR
+
+is	O
+there	O
+are	O
+soundtrack	B-SONG
+for	O
+the	O
+movie	O
+roadtrip	B-TITLE
+
+list	O
+films	O
+with	O
+ben	B-ACTOR
+stiller	I-ACTOR
+and	O
+owen	B-ACTOR
+wilson	I-ACTOR
+
+how	O
+many	O
+movies	O
+are	O
+based	O
+on	O
+the	O
+texas	B-TITLE
+chainsaw	I-TITLE
+massacre	I-TITLE
+
+did	O
+jimmy	B-ACTOR
+stewart	I-ACTOR
+ever	O
+direct	O
+a	O
+movie	O
+
+who	O
+was	O
+the	O
+starring	B-ACTOR
+actor	I-ACTOR
+in	O
+the	O
+film	O
+called	O
+matchstick	B-TITLE
+men	I-TITLE
+
+are	O
+there	O
+any	O
+good	B-REVIEW
+nc	B-RATING
+17	I-RATING
+rated	O
+movies	O
+
+what	O
+action	B-GENRE
+movies	I-GENRE
+are	O
+based	B-PLOT
+in	I-PLOT
+texas	I-PLOT
+
+what	O
+are	O
+disney	B-GENRE
+movies	I-GENRE
+that	O
+do	O
+not	O
+have	O
+a	O
+princess	B-PLOT
+in	O
+them	O
+
+show	O
+me	O
+comedies	B-GENRE
+with	O
+brad	B-ACTOR
+pitt	I-ACTOR
+released	O
+in	O
+the	O
+2000s	B-YEAR
+
+who	O
+is	O
+the	O
+main	B-CHARACTER
+character	I-CHARACTER
+of	O
+the	O
+godfather	B-TITLE
+
+what	O
+movie	O
+featured	O
+a	O
+character	B-CHARACTER
+called	O
+the	B-CHARACTER
+dude	I-CHARACTER
+
+are	O
+there	O
+any	O
+rated	B-RATING
+g	I-RATING
+movies	O
+about	O
+world	B-PLOT
+war	I-PLOT
+ii	I-PLOT
+
+please	O
+locate	O
+the	O
+george	B-DIRECTOR
+lucas	I-DIRECTOR
+film	O
+from	O
+1996	B-YEAR
+
+what	O
+actors	O
+are	O
+in	O
+the	O
+original	O
+fast	B-TITLE
+and	I-TITLE
+the	I-TITLE
+furious	I-TITLE
+
+what	O
+actor	O
+does	O
+the	O
+cameo	B-PLOT
+in	O
+the	O
+spongebob	B-PLOT
+movie	O
+
+what	O
+year	B-YEAR
+was	O
+the	B-TITLE
+social	I-TITLE
+network	I-TITLE
+made	O
+
+what	O
+is	O
+the	O
+plot	O
+of	O
+rocky	B-TITLE
+1	I-TITLE
+
+movies	O
+released	O
+from	O
+1990	B-YEAR
+to	O
+1991	B-YEAR
+
+did	O
+garry	B-DIRECTOR
+marshall	I-DIRECTOR
+direct	O
+a	O
+drama	B-GENRE
+movie	O
+released	O
+in	O
+the	O
+1980s	B-YEAR
+
+show	O
+me	O
+a	O
+list	O
+of	O
+the	O
+best	B-REVIEW
+movies	O
+of	O
+2011	B-YEAR
+
+find	O
+me	O
+star	B-TITLE
+wars	I-TITLE
+movies	O
+with	O
+natalie	B-ACTOR
+portman	I-ACTOR
+
+what	O
+is	O
+the	O
+first	O
+movie	O
+martin	B-ACTOR
+sheen	I-ACTOR
+starred	O
+in	O
+
+did	O
+george	B-DIRECTOR
+lucas	I-DIRECTOR
+direct	O
+any	O
+dramas	B-GENRE
+
+what	O
+movie	O
+has	O
+the	O
+latest	B-YEAR
+john	B-SONG
+williams	I-SONG
+soundtrack	O
+
+find	O
+me	O
+the	O
+most	B-REVIEW
+popular	I-REVIEW
+westerns	B-GENRE
+of	O
+all	O
+time	O
+
+what	O
+movies	O
+from	O
+the	O
+1970s	B-YEAR
+had	O
+car	B-PLOT
+chases	I-PLOT
+
+what	O
+was	O
+the	O
+worst	B-RATINGS_AVERAGE
+reviewed	I-RATINGS_AVERAGE
+scary	B-GENRE
+movie	O
+in	O
+2010	B-YEAR
+
+please	O
+find	O
+me	O
+the	O
+thriller	B-GENRE
+about	O
+an	O
+art	B-PLOT
+heist	I-PLOT
+from	O
+the	O
+late	O
+1990s	B-PLOT
+
+did	O
+james	B-ACTOR
+earl	I-ACTOR
+jones	I-ACTOR
+star	O
+in	O
+any	O
+horror	B-GENRE
+films	O
+
+what	O
+is	O
+the	O
+quote	O
+at	O
+the	O
+end	O
+of	O
+a	B-TITLE
+bronx	I-TITLE
+tale	I-TITLE
+
+what	O
+is	O
+the	O
+top	B-RATINGS_AVERAGE
+rated	I-RATINGS_AVERAGE
+martin	B-DIRECTOR
+scorsesy	I-DIRECTOR
+moive	O
+
+show	O
+me	O
+a	O
+movie	O
+rated	O
+pg	B-RATING
+13	I-RATING
+that	O
+is	O
+about	O
+ghosts	B-PLOT
+
+what	O
+year	B-YEAR
+did	O
+the	B-TITLE
+godfather	I-TITLE
+come	O
+out	O
+
+show	O
+me	O
+romantic	B-GENRE
+comedy	I-GENRE
+movies	O
+directed	O
+by	O
+shawn	B-DIRECTOR
+levy	I-DIRECTOR
+
+show	O
+me	O
+r	B-RATING
+rated	O
+films	O
+with	O
+jennifer	B-ACTOR
+aniston	I-ACTOR
+
+show	O
+me	O
+g	B-RATING
+rated	I-RATING
+films	O
+about	O
+dogs	B-PLOT
+rated	O
+must	B-REVIEW
+see	I-REVIEW
+
+show	O
+me	O
+musicals	B-GENRE
+starring	O
+antonio	B-ACTOR
+banderas	I-ACTOR
+
+are	O
+there	O
+hitchcock	B-DIRECTOR
+color	O
+movies	O
+
+pg	B-YEAR
+13	I-YEAR
+movies	O
+about	O
+animals	B-PLOT
+
+is	O
+there	O
+a	O
+five	B-RATINGS_AVERAGE
+star	I-RATINGS_AVERAGE
+movie	O
+with	O
+the	O
+song	O
+love	B-SONG
+the	I-SONG
+one	I-SONG
+youre	I-SONG
+with	I-SONG
+
+how	O
+many	O
+love	B-GENRE
+stories	I-GENRE
+has	O
+amanda	B-ACTOR
+seyfried	I-ACTOR
+starred	O
+in	O
